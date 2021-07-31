@@ -1,0 +1,250 @@
+/* screen - sign-up */
+
+.sign-up {
+  align-items: flex-start;
+  background-color: #fefefe;
+  background-image: url(../img/background--style-style2-@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 768px;
+  padding: 0 235.0px;
+  width: 1366px;
+}
+
+.sign-up .overlap-group {
+  height: 603px;
+  margin-top: 83.0px;
+  position: relative;
+  width: 896px;
+}
+
+.sign-up .image-4 {
+  height: 369px;
+  left: 394px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 502px;
+}
+
+.sign-up .sign-up-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 895px;
+}
+
+.sign-up .overlap-group1 {
+  border-radius: 16px;
+  height: 603px;
+  position: relative;
+  width: 895px;
+}
+
+.sign-up .card {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 8px 16px 32px #0000001a;
+  display: flex;
+  height: 603px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 895px;
+  position: absolute;
+  top: 0;
+}
+
+.sign-up .area-displayelementsdefault {
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 8px 16px 32px #0000001a;
+  height: 603px;
+  width: 895px;
+}
+
+.sign-up .button {
+  align-items: flex-end;
+  background-color: var(--blue-ribbon);
+  border-radius: 100px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  left: 284px;
+  padding: 11px 132px;
+  position: absolute;
+  top: 467px;
+}
+
+.sign-up .label {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 62px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.sign-up .input {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  border-radius: 16px;
+  display: flex;
+  height: 48px;
+  left: 284px;
+  padding: 11px 16px;
+  position: absolute;
+  top: 168px;
+}
+
+.sign-up .value {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.sign-up .input-1 {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  border-radius: 16px;
+  display: flex;
+  height: 48px;
+  left: 284px;
+  padding: 11px 16px;
+  position: absolute;
+  top: 301px;
+}
+
+.sign-up .value-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+
+.sign-up .input-2 {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  border-radius: 16px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  left: 473px;
+  padding: 11px 22px;
+  position: absolute;
+  top: 301px;
+}
+
+.sign-up .value-2 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 93px;
+  white-space: nowrap;
+}
+
+.sign-up .title-tagh4 {
+  color: var(--mirage);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 263px;
+  letter-spacing: 0.28px;
+  line-height: 43px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.sign-up .circle-button {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border-radius: 1000px;
+  display: flex;
+  height: 48px;
+  left: 823px;
+  padding: 0 17.8px;
+  position: absolute;
+  top: 16px;
+}
+
+.sign-up .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/line-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 12px;
+}
+
+.sign-up .line {
+  height: 12px;
+  object-fit: cover;
+  width: 12px;
+}
+
+.sign-up .input-3 {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  border-radius: 16px;
+  display: flex;
+  height: 48px;
+  left: 284px;
+  padding: 11px 16px;
+  position: absolute;
+  top: 241px;
+}
+
+.sign-up .value-3 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 163px;
+  white-space: nowrap;
+}
+
+.sign-up .area-displayel-ultstatedefault {
+  background-color: var(--wild-sand);
+  border-radius: 16px;
+  height: 48px;
+  left: 276px;
+  position: absolute;
+  top: 374px;
+  width: 328px;
+}
+
+.sign-up .value-4 {
+  left: 305px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 387px;
+  white-space: nowrap;
+}
+
+.sign-up .input-4 {
+  height: 0;
+  margin-left: 79.0px;
+  margin-top: 536px;
+  width: 39px;
+}
+
+.sign-up .circle-button-1 {
+  height: 0;
+  margin-left: 122.0px;
+  margin-top: 194px;
+  width: 12px;
+}

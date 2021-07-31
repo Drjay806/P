@@ -1,0 +1,42 @@
+:root {
+  --baby-powder: #fcfcfc;
+  --blue-ribbon: #056ee6;
+  --masala: #3d3d3d;
+  --mirage: #1c2126;
+  --white: #ffffff;
+  --wild-sand: #f2f4f8;
+
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 13px;
+  --font-size-xl: 35px;
+  --font-size-xxl: 40px;
+  --font-size-xxxl: 48px;
+  --font-size-xxxxl: 56px;
+
+  --font-family-noto_sans: "Noto Sans", Helvetica;
+  --font-family-proximanova-bold: "ProximaNova-Bold", Helvetica;
+}
+.notosans-semi-bold-mirage-16px {
+  color: var(--mirage);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notosans-semi-bold-masala-16px {
+  color: var(--masala);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.proximanova-bold-mirage-35px {
+  color: var(--mirage);
+  font-family: var(--font-family-proximanova-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}

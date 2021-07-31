@@ -1,0 +1,234 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: #fbfbfb;
+  display: flex;
+  flex-direction: column;
+  height: 1135px;
+  width: 1370px;
+}
+
+.index .overlap-group2 {
+  height: 768px;
+  position: relative;
+  width: 1370px;
+}
+
+.index .hero {
+  align-items: flex-start;
+  display: flex;
+  height: 768px;
+  left: 0;
+  min-width: 1370px;
+  position: absolute;
+  top: 0;
+}
+
+.index .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/placement-area--asset-hero--size-default--state-default-@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 768px;
+  padding: 23px 51px;
+  width: 1370px;
+}
+
+.index .button {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--blue-ribbon);
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  min-width: 106px;
+  padding: 8px 21px;
+}
+
+.index .label {
+  color: var(--baby-powder);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .title-tagh1 {
+  color: var(--baby-powder);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 66px;
+  margin-left: 7.0px;
+  margin-top: 262px;
+  min-height: 78px;
+  min-width: 867px;
+  white-space: nowrap;
+}
+
+.index .button-1 {
+  align-items: flex-end;
+  background-color: var(--blue-ribbon);
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-left: 4.0px;
+  margin-top: 35px;
+  min-width: 200px;
+  padding: 11px 69px;
+}
+
+.index .label-1 {
+  color: var(--baby-powder);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 60px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .scroll-group-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.index .scroll-group-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 120px;
+  left: 375px;
+  min-width: 657px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 10px;
+}
+
+.index .typography {
+  -webkit-text-stroke: 2px #0b0b0c03;
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-left: -34px;
+  margin-top: -3px;
+  min-height: 58px;
+  min-width: 691px;
+  text-align: center;
+  width: 691px;
+}
+
+.index .overlap-group {
+  height: 367px;
+  position: relative;
+  width: 1370px;
+}
+
+.index .featured-categories {
+  align-items: flex-start;
+  background-color: #ebebeb;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 367px;
+  padding: 64px 107px;
+  position: absolute;
+  top: 0;
+  width: 1370px;
+}
+
+.index .title-stylestyle2 {
+  align-self: flex-end;
+  color: var(--masala);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 58px;
+  margin-right: 106px;
+  min-height: 67px;
+  min-width: 942px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-top: 139px;
+  min-width: 1128px;
+}
+
+.index .category-name-style {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 24px;
+  min-width: 234px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .category-name-style-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 224px;
+  min-height: 24px;
+  min-width: 202px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .category-name-style-2 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 234px;
+  min-height: 24px;
+  min-width: 234px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .image-1 {
+  height: 109px;
+  left: 181px;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 74px;
+}
+
+.index .image-2 {
+  height: 120px;
+  left: 570px;
+  object-fit: cover;
+  position: absolute;
+  top: 143px;
+  width: 168px;
+}
+
+.index .image-3 {
+  height: 128px;
+  left: 1003px;
+  object-fit: cover;
+  position: absolute;
+  top: 135px;
+  width: 193px;
+}
